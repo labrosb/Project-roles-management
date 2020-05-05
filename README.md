@@ -1,7 +1,7 @@
 ## Info
 
-A Single Page Application made with React/Redux and Sass to manage roles in work projects <br/>
-Test it here:
+A Single Page Application made with React/Redux and Sass to manage roles in work projects. <br/>
+Test it here: https://labrosb.github.io/Project-roles-management
 
 ### `Run locally`
 
