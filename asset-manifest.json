@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Project-roles-management/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Project-roles-management/static/js/main.2156fa9a.chunk.js",
+    "main.js.map": "/Project-roles-management/static/js/main.2156fa9a.chunk.js.map",
+    "runtime-main.js": "/Project-roles-management/static/js/runtime-main.b4e99e3f.js",
+    "runtime-main.js.map": "/Project-roles-management/static/js/runtime-main.b4e99e3f.js.map",
+    "static/css/2.fc7854ad.chunk.css": "/Project-roles-management/static/css/2.fc7854ad.chunk.css",
+    "static/js/2.01b7b919.chunk.js": "/Project-roles-management/static/js/2.01b7b919.chunk.js",
+    "static/js/2.01b7b919.chunk.js.map": "/Project-roles-management/static/js/2.01b7b919.chunk.js.map",
+    "index.html": "/Project-roles-management/index.html",
+    "precache-manifest.d6e9d86c3401b82edcc3cf318b15653f.js": "/Project-roles-management/precache-manifest.d6e9d86c3401b82edcc3cf318b15653f.js",
+    "service-worker.js": "/Project-roles-management/service-worker.js",
+    "static/css/2.fc7854ad.chunk.css.map": "/Project-roles-management/static/css/2.fc7854ad.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Project-roles-management/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.01b7b919.chunk.js.LICENSE.txt": "/Project-roles-management/static/js/2.01b7b919.chunk.js.LICENSE.txt",
+    "static/media/loading.svg": "/Project-roles-management/static/media/loading.4e722e12.svg",
+    "static/media/index.css": "/Project-roles-management/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4e99e3f.js",
+    "static/css/2.fc7854ad.chunk.css",
+    "static/js/2.01b7b919.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2156fa9a.chunk.js"
+  ]
+}
