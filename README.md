@@ -1,7 +1,12 @@
+# Project roles management
+
+Try it here: https://labrosb.github.io/Project-roles-management
+
+<img src="https://www.labrosb.com/project-thumbs/roles-management.PNG" height="180px" />
+
 ## Info
 
 A Single Page Application made with React/Redux and Sass to manage roles in work projects. <br/>
-Test it here: https://labrosb.github.io/Project-roles-management
 
 ### `Run locally`
 
